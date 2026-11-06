@@ -1,0 +1,116 @@
+[
+  {
+    "file": "beso_amor.webp",
+    "description": "Beso, cariño, amor o mandar un besito tierno",
+    "emotion": "amor",
+    "tags": ["beso", "amor", "cariño", "besito", "muak", "te quiero", "besos", "amoroso", "romantico"]
+  },
+  {
+    "file": "sexy_coqueta.webp",
+    "description": "Actitud sexy, coqueta, juego o broma seductora",
+    "emotion": "coqueteo",
+    "tags": ["sexy", "coqueta", "coqueteo", "linda", "atractiva", "guiño", "coquetear", "picaro", "indirecta"]
+  },
+  {
+    "file": "cara_seria_asco.webp",
+    "description": "Cara seria de asco, cringe, guácala, rechazo o desagrado",
+    "emotion": "asco",
+    "tags": ["asco", "desagrado", "que_asco", "cringe", "guacala", "seria_asco", "guacala", "rechazo"]
+  },
+  {
+    "file": "enojo_golpe.webp",
+    "description": "Enojo violento, dar un golpe, furia o ganas de pegarle a alguien",
+    "emotion": "enojo",
+    "tags": ["enojo_golpe", "golpe", "pelea", "furia", "te pego", "piña", "bardeo", "insulto", "furiosa"]
+  },
+  {
+    "file": "enojo_serio.webp",
+    "description": "Enojo serio, mirada molesta, indignación o bronca",
+    "emotion": "enojo",
+    "tags": ["enojo_serio", "enojo", "molesta", "bronca", "rabia", "enojada", "indignada"]
+  },
+  {
+    "file": "abrumado_estres.webp",
+    "description": "Abrumada, estrés, colapso mental, cansada de todo",
+    "emotion": "estres",
+    "tags": ["abrumado", "estres", "cansada", "colapso", "demasiado", "tareas", "agotada", "queja"]
+  },
+  {
+    "file": "serio_duda.webp",
+    "description": "Mirada seria de duda, sospecha, desconfianza o '¿en serio?'",
+    "emotion": "duda",
+    "tags": ["serio_duda", "serio", "sospecha", "duda", "en_serio", "desconfianza", "mentira", "desconfiada"]
+  },
+  {
+    "file": "perro_bailando.webp",
+    "description": "Perrito bailando, fiesta, celebración, alegría o música",
+    "emotion": "fiesta",
+    "tags": ["perro_bailando", "baile", "bailando", "fiesta", "musica", "celebracion", "celebrar", "ganamos"]
+  },
+  {
+    "file": "perrito_pata_feliz.webp",
+    "description": "Perrito moviendo la pata saludando con felicidad",
+    "emotion": "saludo",
+    "tags": ["perrito_pata", "saludo", "hola", "perro_saludando", "chau", "saludar", "llegue", "volvi"]
+  },
+  {
+    "file": "perro_lindo_feliz.webp",
+    "description": "Perro lindo y feliz, ternura perruna",
+    "emotion": "ternura",
+    "tags": ["perro_lindo", "tierno", "perro_feliz", "lindo", "ternura", "amoroso", "cuchi"]
+  },
+  {
+    "file": "perro_feliz_sonrisa.webp",
+    "description": "Perro feliz sonriendo con cara divertida",
+    "emotion": "alegria",
+    "tags": ["perro_feliz_sonrisa", "perro_sonriendo", "perro_contento", "alegre_perro"]
+  },
+  {
+    "file": "gato_curioso.webp",
+    "description": "Gatito curioso mirando qué está pasando",
+    "emotion": "chisme",
+    "tags": ["gato_curioso", "gato", "michi", "curioso", "que_paso", "mirando", "chisme", "curiosidad"]
+  },
+  {
+    "file": "gato_ojos_lindos.webp",
+    "description": "Gatito con ojos tiernos y lindos suplicando o enterneciendo",
+    "emotion": "ternura",
+    "tags": ["gato_ojos_lindos", "ojitos", "tierno", "lindo", "cute", "porfa", "favor", "suplica", "ojitos_lindos"]
+  },
+  {
+    "file": "triste_llorando.webp",
+    "description": "Tristeza profunda, llorando a mares, desconsuelo",
+    "emotion": "tristeza",
+    "tags": ["triste_llorando", "llanto", "llorando", "lagrimas", "triste", "drama", "desconsuelo"]
+  },
+  {
+    "file": "triste_pena.webp",
+    "description": "Tristeza con pena, desánimo, bajón o carita triste",
+    "emotion": "tristeza",
+    "tags": ["triste_pena", "bajon", "pena", "decepcion", "desanimada", "tristeza"]
+  },
+  {
+    "file": "feliz_amable.webp",
+    "description": "Alegría amable hacia la otra persona, cariño de amigos",
+    "emotion": "alegria",
+    "tags": ["feliz_amable", "amable", "alegre", "buena_onda", "amistad", "gentil"]
+  },
+  {
+    "file": "feliz_contenta.webp",
+    "description": "Contenta, tranquila, alegre y en paz",
+    "emotion": "alegria",
+    "tags": ["feliz_contenta", "contenta", "feliz", "bien", "tranquila", "paz"]
+  },
+  {
+    "file": "feliz_divertido.webp",
+    "description": "Momento divertido, feliz, pasando un buen rato",
+    "emotion": "risa",
+    "tags": ["feliz_divertido", "divertido", "jaja", "gracioso", "risa", "risas", "jajaja", "cague_de_risa"]
+  },
+  {
+    "file": "feliz_sonrisa.webp",
+    "description": "Sonrisa feliz y bonita",
+    "emotion": "alegria",
+    "tags": ["feliz_sonrisa", "sonrisa", "alegria", "sonriente", "feliz_sonriendo"]
+  }
+]

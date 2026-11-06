@@ -1,0 +1,92 @@
+{
+  "targetRate": 0.6,
+  "emotionLabels": {
+    "amor": "Cariño / Amor",
+    "coqueteo": "Coqueteo / Broma",
+    "asco": "Asco / Cringe",
+    "enojo": "Enojo / Pelea",
+    "estres": "Estrés / Tareas de casa",
+    "duda": "Duda / Desconfianza",
+    "fiesta": "Festejo / Fiesta",
+    "saludo": "Saludos / Llegada",
+    "ternura": "Ternura / Favores",
+    "chisme": "Curiosidad / Chisme",
+    "tristeza": "Tristeza / Drama",
+    "alegria": "Alegría / Buena onda",
+    "risa": "Risas"
+  },
+  "moments": [
+    {
+      "id": "bardeo_pelea",
+      "when": "te insultan, te bardean o hay pelea directa contigo (puta, perra, callate, 'te hago kk', etc.)",
+      "mandatory": true,
+      "tags": ["enojo_golpe", "cara_seria_asco"]
+    },
+    {
+      "id": "drama_tristeza",
+      "when": "alguien te hace drama, te dice que ya no te quiere, te ignora o hay bajón emocional real",
+      "mandatory": true,
+      "tags": ["triste_pena", "triste_llorando"]
+    },
+    {
+      "id": "coqueteo_fuerte",
+      "when": "alguien te tira la onda, hay indirecta picante, doble sentido y el jueguito sigue",
+      "mandatory": true,
+      "tags": ["sexy_coqueta"]
+    },
+    {
+      "id": "romance",
+      "when": "momento romántico o íntimo: un 'te quiero', un besito, complicidad de pareja",
+      "mandatory": true,
+      "tags": ["beso_amor"]
+    },
+    {
+      "id": "ternura_favor",
+      "when": "alguien te trata tierno, te pide algo por favor o te suplica",
+      "mandatory": true,
+      "tags": ["gato_ojos_lindos", "perro_lindo_feliz"]
+    },
+    {
+      "id": "festejo",
+      "when": "celebran o ganan una partida de blod, hay fiesta o buena noticia en el grupo",
+      "mandatory": true,
+      "tags": ["perro_bailando", "feliz_divertido"]
+    },
+    {
+      "id": "chisme",
+      "when": "te cuentan un chisme o algo raro y querés saber más",
+      "mandatory": false,
+      "tags": ["gato_curioso"]
+    },
+    {
+      "id": "estres_casa",
+      "when": "te quejás del colegio, de las tareas o del desorden de la casa",
+      "mandatory": false,
+      "tags": ["abrumado_estres"]
+    },
+    {
+      "id": "desconfianza",
+      "when": "alguien te jura algo raro, te miente o dudás de lo que te dicen",
+      "mandatory": false,
+      "tags": ["serio_duda"]
+    },
+    {
+      "id": "saludo",
+      "when": "alguien te saluda, llega al chat o vuelve después de un rato",
+      "mandatory": false,
+      "tags": ["perrito_pata_feliz", "feliz_sonrisa"]
+    },
+    {
+      "id": "risa_real",
+      "when": "algo fue genuinamente gracioso (no risas de relleno)",
+      "mandatory": false,
+      "tags": ["feliz_divertido", "perro_feliz_sonrisa"]
+    },
+    {
+      "id": "alegria_amable",
+      "when": "estás de buenas, contenta, tranquila o con buena onda",
+      "mandatory": false,
+      "tags": ["feliz_contenta", "feliz_amable"]
+    }
+  ]
+}
