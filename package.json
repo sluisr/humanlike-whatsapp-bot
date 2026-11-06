@@ -1,5 +1,5 @@
 {
-  "name": "natural-ai-whatsapp",
+  "name": "humanlike-whatsapp-bot",
   "version": "1.0.0",
   "description": "A WhatsApp bot that tries to pass as a person: DeepSeek, Baileys, human-like timing, memory and stickers",
   "main": "dist/index.js",
@@ -37,6 +37,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sluisr/natural-ai-whatsapp.git"
+    "url": "git+https://github.com/sluisr/humanlike-whatsapp-bot.git"
   }
 }

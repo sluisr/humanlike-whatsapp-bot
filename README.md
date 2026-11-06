@@ -1,4 +1,4 @@
-# natural-ai-whatsapp
+# humanlike-whatsapp-bot
 
 A WhatsApp bot that tries to be as close to a real person as it can get. It talks through [Baileys](https://github.com/WhiskeySockets/Baileys) (no official API, it links as one more device) and thinks with DeepSeek.
 
