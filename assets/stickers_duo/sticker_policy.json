@@ -1,0 +1,53 @@
+{
+  "targetRate": 0.6,
+  "emotionLabels": {
+    "coqueteo": "Coqueteo, chamuyo, seducción y picardía",
+    "amor": "Amor sincero, besos, flores y romance",
+    "bardo": "Bardo callejero, dedo ofensivo, insultos, trauma y mandar a la mierda",
+    "enojo": "Enojo, furia y bronca seria",
+    "burla": "Risas, memes, tomatazo por cringe, soberbia canchera o tomar nota",
+    "duda": "Confusión, curiosidad, sospecha o pensar",
+    "miedo": "Shock, susto o pánico",
+    "ternura": "Ternura, michis lindos y gestos dulces",
+    "tristeza": "Puchero y tristeza cute",
+    "alegria": "Alegría y risas"
+  },
+  "moments": [
+    {
+      "id": "coqueteo_recibido",
+      "when": "La otra persona te tira onda, te piropea, te dice lindo/linda o juega al coqueteo",
+      "mandatory": true,
+      "tags": ["morder_labio_mujer", "morder_labio_mujer_2", "morder_labio_mujer_3", "besito", "mirada_morbo", "feliz_sonrojado", "git_gato_lengua_morbo"]
+    },
+    {
+      "id": "insulto_o_bardo",
+      "when": "Alguien te insulta, se pasa de vivo, te busca pelea o te falta el respeto",
+      "mandatory": true,
+      "tags": ["dedo_ofensivo", "obsolute_mierda", "serio_enojado", "gato_enojado"]
+    },
+    {
+      "id": "chiste_malo_o_cringe",
+      "when": "Alguien dice una payasada sin gracia, da vergüenza ajena o papelón",
+      "mandatory": true,
+      "tags": ["lanzar_tomate", "meme", "vacio_trauma"]
+    },
+    {
+      "id": "confusion_total",
+      "when": "No entiendes lo que acaban de decir o es algo completamente absurdo",
+      "mandatory": false,
+      "tags": ["perro_confundido", "niño_curioso", "gato_pensando"]
+    },
+    {
+      "id": "declaracion_amor",
+      "when": "Momento de cariño profundo, amor o entregar flores",
+      "mandatory": false,
+      "tags": ["dar_flores", "te_amo_flores", "beso", "cute_corazon"]
+    },
+    {
+      "id": "sobrado_o_victoria",
+      "when": "Tenías razón, cerraste una discusión o mostrás superioridad con onda",
+      "mandatory": false,
+      "tags": ["inteligente", "tomando_nota"]
+    }
+  ]
+}

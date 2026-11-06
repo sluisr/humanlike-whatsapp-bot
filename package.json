@@ -1,0 +1,42 @@
+{
+  "name": "natural-ai-whatsapp",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot that tries to pass as a person: DeepSeek, Baileys, human-like timing, memory and stickers",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test src/tests/*.test.ts",
+    "test:watch": "node --import tsx --test --watch src/tests/*.test.ts",
+    "test-bot": "tsx src/test_bot.ts",
+    "smoke": "tsx src/tools/smoke.ts",
+    "probe:profanity": "tsx src/tools/profanityProbe.ts"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "deepseek",
+    "chatbot"
+  ],
+  "author": "sluisr",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "dotenv": "^16.4.5",
+    "openai": "^4.56.0",
+    "pino": "^9.3.2",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "@types/qrcode-terminal": "^0.12.2",
+    "tsx": "^4.16.5",
+    "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sluisr/natural-ai-whatsapp.git"
+  }
+}

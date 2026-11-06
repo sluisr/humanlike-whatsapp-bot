@@ -1,0 +1,188 @@
+[
+  {
+    "file": "besito.webp",
+    "description": "Mandando un besito coqueto, pícaro o cariñoso",
+    "emotion": "coqueteo",
+    "tags": ["besito", "beso", "coqueteo", "muak", "piropo", "linda", "hermosa", "bebe", "papi"]
+  },
+  {
+    "file": "beso.webp",
+    "description": "Beso apasionado o con mucho cariño",
+    "emotion": "amor",
+    "tags": ["beso", "besote", "amor", "te_quiero", "romantico", "cariño", "muak", "apasionado"]
+  },
+  {
+    "file": "morder_labio_mujer.webp",
+    "description": "Mordiendo el labio con deseo, coqueteo picante o provocación",
+    "emotion": "coqueteo",
+    "tags": ["morder_labio", "labio", "coqueta", "provocacion", "seduccion", "hot", "antojo", "atrevida"]
+  },
+  {
+    "file": "morder_labio_mujer_2.webp",
+    "description": "Mordida de labio sugerente y coqueta",
+    "emotion": "coqueteo",
+    "tags": ["morder_labio_2", "labio_mordido", "coqueteo_picante", "atrevida", "mami", "reina"]
+  },
+  {
+    "file": "morder_labio_mujer_3.webp",
+    "description": "Mordida de labio intensa con mirada atrevida",
+    "emotion": "coqueteo",
+    "tags": ["morder_labio_3", "labio_atrevido", "seductora", "provocativa", "fuego"]
+  },
+  {
+    "file": "mirada_morbo.webp",
+    "description": "Mirada de morbo, deseo, picardía y tensión seductora",
+    "emotion": "coqueteo",
+    "tags": ["mirada_morbo", "morbo", "deseo", "mirada_picara", "seductor", "tentacion", "hot"]
+  },
+  {
+    "file": "git_gato_lengua_morbo.webp",
+    "description": "Gato animado sacando la lengua con mirada pícara y provocativa",
+    "emotion": "coqueteo",
+    "tags": ["gato_lengua", "lengua", "morbo", "provocador", "picaro", "coqueto", "hot", "jueguito", "antojo"]
+  },
+  {
+    "file": "dar_flores.webp",
+    "description": "Regalando o entregando un ramo de flores para conquistar o tirar onda",
+    "emotion": "coqueteo",
+    "tags": ["dar_flores", "flores", "ramo", "conquista", "piropo", "perdon", "caballero", "coqueto"]
+  },
+  {
+    "file": "te_amo_flores.webp",
+    "description": "Te amo con flores, declaración directa y romántica",
+    "emotion": "amor",
+    "tags": ["te_amo_flores", "te_amo", "flores", "romantico", "amor", "declaracion", "te_quiero"]
+  },
+  {
+    "file": "cute_corazon.webp",
+    "description": "Carita tierna y cute con corazones enamorada",
+    "emotion": "amor",
+    "tags": ["cute_corazon", "cute", "corazon", "corazones", "tierno", "enamorado", "dulce", "lindo"]
+  },
+  {
+    "file": "feliz_sonrojado.webp",
+    "description": "Feliz y sonrojado por un piropo o halago lindo",
+    "emotion": "coqueteo",
+    "tags": ["feliz_sonrojado", "sonrojado", "sonrojo", "timido", "halago", "piropo", "me_haces_poner_rojo", "lindo"]
+  },
+  {
+    "file": "dedo_ofensivo.webp",
+    "description": "Mostrando el dedo medio, bardo puro o mandando a la mierda",
+    "emotion": "bardo",
+    "tags": ["dedo_ofensivo", "dedo_medio", "fuck_you", "chupala", "andate_a_la_mierda", "insulto", "bardo", "que_te_jodan"]
+  },
+  {
+    "file": "obsolute_mierda.webp",
+    "description": "Absoluta mierda / basura, desprecio total y asco hacia algo o alguien",
+    "emotion": "bardo",
+    "tags": ["obsolute_mierda", "mierda", "basura", "asco", "desprecio", "una_mierda", "inutil", "bardo"]
+  },
+  {
+    "file": "lanzar_tomate.webp",
+    "description": "Lanzando tomates por un chiste malo, cringe, papelón o desaprobación total",
+    "emotion": "burla",
+    "tags": ["lanzar_tomate", "tomate", "tomatazo", "abucheo", "cringe", "malisimo", "callate", "que_malo"]
+  },
+  {
+    "file": "enojado.webp",
+    "description": "Enojado, molesto, rabia o bronca",
+    "emotion": "enojo",
+    "tags": ["enojado", "molesto", "rabia", "bronca", "enojada", "furia", "odio"]
+  },
+  {
+    "file": "gato_enojado.webp",
+    "description": "Gato furioso con mirada asesina",
+    "emotion": "enojo",
+    "tags": ["gato_enojado", "gato_furioso", "enojo", "furia", "te_mato", "bronca", "gato"]
+  },
+  {
+    "file": "serio_enojado.webp",
+    "description": "Mirada seria y pesada de pocos amigos",
+    "emotion": "enojo",
+    "tags": ["serio_enojado", "serio", "pesado", "bronca", "enojado", "te_ubicas", "mala_onda"]
+  },
+  {
+    "file": "vacio_trauma.webp",
+    "description": "Mirada vacía de trauma o shock por algo turbio",
+    "emotion": "bardo",
+    "tags": ["vacio_trauma", "trauma", "vacio", "shock", "quede_mudo", "turbio", "quede_loco", "sin_palabras"]
+  },
+  {
+    "file": "meme.webp",
+    "description": "Meme gracioso de risa, burla o situación bizarra",
+    "emotion": "burla",
+    "tags": ["meme", "risa", "gracioso", "humor", "jaja", "carcajada", "chiste", "burla"]
+  },
+  {
+    "file": "inteligente.webp",
+    "description": "Cerebro brillante, canchero explicando algo o sobrado",
+    "emotion": "burla",
+    "tags": ["inteligente", "cerebro", "genio", "obvio", "canchero", "sabiondo", "sobrado"]
+  },
+  {
+    "file": "tomando_nota.webp",
+    "description": "Anotando en libreta para cobrar venganza o guardar el chisme",
+    "emotion": "burla",
+    "tags": ["tomando_nota", "anotado", "anotando", "guardado", "te_tengo_en_la_mira", "factura", "venganza"]
+  },
+  {
+    "file": "perro_confundido.webp",
+    "description": "Perro con cara de confusión total sin entender nada",
+    "emotion": "duda",
+    "tags": ["perro_confundido", "confundido", "que_dijo", "no_entiendo", "perdido", "wtf", "perro"]
+  },
+  {
+    "file": "niño_curioso.webp",
+    "description": "Niño curioso mirando de reojo con sospecha o intriga",
+    "emotion": "duda",
+    "tags": ["niño_curioso", "curioso", "sospechoso", "que_onda", "intrigado", "chisme", "mirando"]
+  },
+  {
+    "file": "gato_pensando.webp",
+    "description": "Gato pensativo analizando qué responder o maquinando",
+    "emotion": "duda",
+    "tags": ["gato_pensando", "pensando", "pensativo", "maquinando", "duda", "analizando"]
+  },
+  {
+    "file": "miedo.webp",
+    "description": "Cara de shock o susto extremo",
+    "emotion": "miedo",
+    "tags": ["miedo", "susto", "espanto", "shock", "turbio", "que_miedo", "cagaso"]
+  },
+  {
+    "file": "asutado_triste.webp",
+    "description": "Carita asustada y triste con preocupación",
+    "emotion": "miedo",
+    "tags": ["asutado_triste", "asustado", "triste", "miedo", "temor", "panico", "carita_triste"]
+  },
+  {
+    "file": "hamter_feliz.webp",
+    "description": "Hamster feliz y contento sonriendo",
+    "emotion": "alegria",
+    "tags": ["hamter_feliz", "hamster", "feliz", "contento", "jaja", "risa", "gracioso"]
+  },
+  {
+    "file": "gato_lindo_corazon.webp",
+    "description": "Gatito hermoso con corazones lleno de ternura",
+    "emotion": "ternura",
+    "tags": ["gato_lindo_corazon", "gato_tierno", "corazon", "michi", "cute", "ternura", "amoroso"]
+  },
+  {
+    "file": "lindo_cute.webp",
+    "description": "Expresión tierna, ojos dulces y adorable",
+    "emotion": "ternura",
+    "tags": ["lindo_cute", "lindo", "cute", "adorable", "tierno", "belleza", "hermoso"]
+  },
+  {
+    "file": "ternura.webp",
+    "description": "Gesto de ternura pura y cariñoso",
+    "emotion": "ternura",
+    "tags": ["ternura", "tierno", "abrazable", "cuchi", "dulce", "cariñoso"]
+  },
+  {
+    "file": "triste_cute.webp",
+    "description": "Tristeza cute con puchero tierno",
+    "emotion": "tristeza",
+    "tags": ["triste_cute", "puchero", "triste", "pena", "bajon", "pobre", "desconsuelo"]
+  }
+]

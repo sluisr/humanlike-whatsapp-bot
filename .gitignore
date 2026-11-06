@@ -1,0 +1,10 @@
+node_modules/
+dist/
+stickers/
+.env
+.env.*
+!.env.example
+baileys_auth/
+data/
+logs/
+.corex/
